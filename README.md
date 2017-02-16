@@ -1,4 +1,4 @@
-# AirplaneTicketsReversingSystem
+# Airplane Tickets Reserving System
 Language: C++
 
 This project simulates the current online reservation and ticketing systems. 
