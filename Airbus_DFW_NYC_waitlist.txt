@@ -1,0 +1,45 @@
+Ticket: 1
+Size: 1
+Flight: A_DFW->NYC
+Confirmation: A_DFW->NYC_1_1_132
+
+Name: BN
+Age: 20
+Seat: 132
+Price: 100.00
+---------- ----------
+Ticket: 2
+Size: 2
+Flight: A_DFW->NYC
+Confirmation: A_DFW->NYC_2_2_135
+
+Name: BN
+Age: 12
+Seat: 135
+Price: 75.00
+
+Name: TB
+Age: 21
+Seat: 131
+Price: 100.00
+---------- ----------
+Ticket: 1
+Size: 1
+Flight: A_DFW->NYC
+Confirmation: A_DFW->NYC_1_1_133
+
+Name: BN
+Age: 20
+Seat: 133
+Price: 100.00
+---------- ----------
+Ticket: 1
+Size: 1
+Flight: A_DFW->NYC
+Confirmation: A_DFW->NYC_1_1_123
+
+Name: BN
+Age: 20
+Seat: 123
+Price: 100.00
+---------- ----------

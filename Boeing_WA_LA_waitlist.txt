@@ -1,0 +1,10 @@
+Ticket: 2
+Size: 1
+Flight: B_WA->LA
+Confirmation: B_WA->LA_2_1_2
+
+Name: gt
+Age: 19
+Seat: 2
+Price: 200.00
+---------- ----------
